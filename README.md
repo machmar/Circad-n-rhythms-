@@ -1,9 +1,9 @@
 # Circad-n-rhythms-
 Im back with an update. With this update, the module is now usable.Altho I still advise you not to try to build it because there are many mistakes in the pcb design and somethings are compleetly replaced with something else.
 
-I̶t̶s̶ ̶a̶ ̶b̶i̶g̶ ̶t̶h̶i̶n̶g̶ ̶a̶n̶d̶ ̶i̶t̶ ̶d̶o̶e̶s̶n̶t̶ ̶w̶o̶r̶k̶ ̶a̶t̶ ̶a̶l̶l̶
-̶D̶O̶ ̶N̶O̶T̶ ̶a̶t̶t̶e̶m̶p̶t̶ ̶t̶o̶ ̶b̶u̶i̶l̶d̶ ̶t̶h̶i̶s̶,the pcb design sucks a̶n̶d̶ ̶t̶h̶e̶r̶e̶ ̶i̶s̶ ̶n̶o̶ ̶c̶o̶d̶e̶ ̶f̶o̶r̶ ̶i̶t̶ ̶(̶w̶e̶l̶l̶ ̶t̶h̶e̶r̶e̶ ̶i̶s̶ ̶b̶u̶t̶ ̶i̶t̶ ̶d̶o̶e̶s̶n̶t̶ ̶d̶o̶ ̶m̶u̶c̶h̶ ̶-̶ ̶i̶t̶ ̶d̶e̶f̶i̶n̶i̶t̶l̶y̶ ̶d̶o̶e̶s̶n̶t̶ ̶o̶u̶t̶p̶u̶t̶ ̶t̶r̶i̶g̶g̶e̶r̶s̶ ̶o̶r̶ ̶g̶a̶t̶e̶s̶)̶
-̶i̶t̶s̶ ̶a̶n̶ ̶u̶p̶c̶o̶m̶i̶n̶g̶ ̶p̶r̶o̶j̶e̶c̶t̶ ̶o̶f̶ ̶m̶i̶n̶e̶.̶ ̶I̶ ̶g̶o̶t̶ ̶s̶t̶u̶c̶k̶ ̶o̶n̶ ̶m̶u̶l̶t̶i̶p̶l̶e̶ ̶m̶u̶x̶e̶r̶s̶ ̶r̶u̶n̶n̶i̶n̶g̶ ̶o̶n̶ ̶t̶h̶e̶ ̶s̶a̶m̶e̶ ̶c̶l̶o̶c̶k̶
-̶I̶m̶ ̶w̶o̶r̶k̶i̶n̶g̶ ̶o̶n̶ ̶t̶h̶e̶ ̶s̶e̶q̶u̶e̶n̶c̶e̶r̶ ̶t̶h̶i̶n̶g̶ ̶f̶o̶r̶ ̶n̶o̶w̶,̶ ̶I̶l̶l̶ ̶l̶e̶t̶ ̶y̶o̶u̶ ̶k̶n̶o̶w̶ ̶w̶h̶e̶n̶ ̶I̶ ̶g̶e̶t̶ ̶b̶a̶c̶k̶ ̶t̶o̶ ̶i̶t̶
+ ̷I̷̶̷t̷̶̷s̷̶̷ ̷̶̷a̷̶̷ ̷̶̷b̷̶̷i̷̶̷g̷̶̷ ̷̶̷t̷̶̷h̷̶̷i̷̶̷n̷̶̷g̷̶̷ ̷̶̷a̷̶̷n̷̶̷d̷̶̷ ̷̶̷i̷̶̷t̷̶̷ ̷̶̷d̷̶̷o̷̶̷e̷̶̷s̷̶̷n̷̶̷t̷̶̷ ̷̶̷w̷̶̷o̷̶̷r̷̶̷k̷̶̷ ̷̶̷a̷̶̷t̷̶̷ ̷̶̷a̷̶̷l̷̶̷l̷̶̷
+̷̶̷D̷̶̷O̷̶̷ ̷̶̷N̷̶̷O̷̶̷T̷̶̷ ̷̶̷a̷̶̷t̷̶̷t̷̶̷e̷̶̷m̷̶̷p̷̶̷t̷̶̷ ̷̶̷t̷̶̷o̷̶̷ ̷̶̷b̷̶̷u̷̶̷i̷̶̷l̷̶̷d̷̶̷ ̷̶̷t̷̶̷h̷̶̷i̷̶̷s̷̶̷,̷the pcb design sucks  ̷a̷̶̷n̷̶̷d̷̶̷ ̷̶̷t̷̶̷h̷̶̷e̷̶̷r̷̶̷e̷̶̷ ̷̶̷i̷̶̷s̷̶̷ ̷̶̷n̷̶̷o̷̶̷ ̷̶̷c̷̶̷o̷̶̷d̷̶̷e̷̶̷ ̷̶̷f̷̶̷o̷̶̷r̷̶̷ ̷̶̷i̷̶̷t̷̶̷ ̷̶̷(̷̶̷w̷̶̷e̷̶̷l̷̶̷l̷̶̷ ̷̶̷t̷̶̷h̷̶̷e̷̶̷r̷̶̷e̷̶̷ ̷̶̷i̷̶̷s̷̶̷ ̷̶̷b̷̶̷u̷̶̷t̷̶̷ ̷̶̷i̷̶̷t̷̶̷ ̷̶̷d̷̶̷o̷̶̷e̷̶̷s̷̶̷n̷̶̷t̷̶̷ ̷̶̷d̷̶̷o̷̶̷ ̷̶̷m̷̶̷u̷̶̷c̷̶̷h̷̶̷ ̷̶̷-̷̶̷ ̷̶̷i̷̶̷t̷̶̷ ̷̶̷d̷̶̷e̷̶̷f̷̶̷i̷̶̷n̷̶̷i̷̶̷t̷̶̷l̷̶̷y̷̶̷ ̷̶̷d̷̶̷o̷̶̷e̷̶̷s̷̶̷n̷̶̷t̷̶̷ ̷̶̷o̷̶̷u̷̶̷t̷̶̷p̷̶̷u̷̶̷t̷̶̷ ̷̶̷t̷̶̷r̷̶̷i̷̶̷g̷̶̷g̷̶̷e̷̶̷r̷̶̷s̷̶̷ ̷̶̷o̷̶̷r̷̶̷ ̷̶̷g̷̶̷a̷̶̷t̷̶̷e̷̶̷s̷̶̷)̷̶̷
+̷̶̷i̷̶̷t̷̶̷s̷̶̷ ̷̶̷a̷̶̷n̷̶̷ ̷̶̷u̷̶̷p̷̶̷c̷̶̷o̷̶̷m̷̶̷i̷̶̷n̷̶̷g̷̶̷ ̷̶̷p̷̶̷r̷̶̷o̷̶̷j̷̶̷e̷̶̷c̷̶̷t̷̶̷ ̷̶̷o̷̶̷f̷̶̷ ̷̶̷m̷̶̷i̷̶̷n̷̶̷e̷̶̷.̷̶̷ ̷̶̷I̷̶̷ ̷̶̷g̷̶̷o̷̶̷t̷̶̷ ̷̶̷s̷̶̷t̷̶̷u̷̶̷c̷̶̷k̷̶̷ ̷̶̷o̷̶̷n̷̶̷ ̷̶̷m̷̶̷u̷̶̷l̷̶̷t̷̶̷i̷̶̷p̷̶̷l̷̶̷e̷̶̷ ̷̶̷m̷̶̷u̷̶̷x̷̶̷e̷̶̷r̷̶̷s̷̶̷ ̷̶̷r̷̶̷u̷̶̷n̷̶̷n̷̶̷i̷̶̷n̷̶̷g̷̶̷ ̷̶̷o̷̶̷n̷̶̷ ̷̶̷t̷̶̷h̷̶̷e̷̶̷ ̷̶̷s̷̶̷a̷̶̷m̷̶̷e̷̶̷ ̷̶̷c̷̶̷l̷̶̷o̷̶̷c̷̶̷k̷̶̷
+̷̶̷I̷̶̷m̷̶̷ ̷̶̷w̷̶̷o̷̶̷r̷̶̷k̷̶̷i̷̶̷n̷̶̷g̷̶̷ ̷̶̷o̷̶̷n̷̶̷ ̷̶̷t̷̶̷h̷̶̷e̷̶̷ ̷̶̷s̷̶̷e̷̶̷q̷̶̷u̷̶̷e̷̶̷n̷̶̷c̷̶̷e̷̶̷r̷̶̷ ̷̶̷t̷̶̷h̷̶̷i̷̶̷n̷̶̷g̷̶̷ ̷̶̷f̷̶̷o̷̶̷r̷̶̷ ̷̶̷n̷̶̷o̷̶̷w̷̶̷,̷̶̷ ̷̶̷I̷̶̷l̷̶̷l̷̶̷ ̷̶̷l̷̶̷e̷̶̷t̷̶̷ ̷̶̷y̷̶̷o̷̶̷u̷̶̷ ̷̶̷k̷̶̷n̷̶̷o̷̶̷w̷̶̷ ̷̶̷w̷̶̷h̷̶̷e̷̶̷n̷̶̷ ̷̶̷I̷̶̷ ̷̶̷g̷̶̷e̷̶̷t̷̶̷ ̷̶̷b̷̶̷a̷̶̷c̷̶̷k̷̶̷ ̷̶̷t̷̶̷o̷̶̷ ̷̶̷i̷̶̷t̷̶̷
 And dont forget to watch my livestreams where you can see me working on modules. 
 Sharing Is Caring
