@@ -1,6 +1,5 @@
- 
-#include <FastLED.h>
-#include <EEPROM.h>
+#include <FastLED.h> //https://github.com/FastLED/FastLED
+#include <EEPROM.h> //allready built in with arduino IDE
 
 #define colA 13
 #define colB 17
