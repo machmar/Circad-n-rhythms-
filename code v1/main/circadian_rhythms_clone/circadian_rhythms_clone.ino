@@ -1,4 +1,4 @@
-#include <Rotary.h>
+#include <Rotary.h> //https://github.com/brianlow/Rotary
 #include <FastLED.h>
 
 int brightness = 20;
