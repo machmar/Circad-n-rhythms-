@@ -1,5 +1,5 @@
 #include <Rotary.h> //https://github.com/brianlow/Rotary
-#include <FastLED.h>
+#include <FastLED.h> //https://github.com/FastLED/FastLED
 
 int brightness = 20;
 Rotary encoder = Rotary(5, 2);
