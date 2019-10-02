@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.1">
+<eagle version="9.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -16263,45 +16263,45 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <instance part="LED70" gate="G$1" x="233.68" y="50.8" smashed="yes" rot="R90"/>
 <instance part="LED71" gate="G$1" x="233.68" y="22.86" smashed="yes" rot="R90"/>
 <instance part="LED72" gate="G$1" x="233.68" y="-5.08" smashed="yes" rot="R90"/>
-<instance part="C13" gate="G$1" x="20.32" y="180.34" smashed="yes">
-<attribute name="NAME" x="21.844" y="183.261" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="21.844" y="178.181" size="1.778" layer="96" font="vector"/>
+<instance part="C13" gate="G$1" x="17.78" y="190.5" smashed="yes">
+<attribute name="NAME" x="19.304" y="193.421" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="19.304" y="188.341" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C14" gate="G$1" x="198.12" y="152.4" smashed="yes">
-<attribute name="NAME" x="199.644" y="155.321" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="199.644" y="150.241" size="1.778" layer="96" font="vector"/>
+<instance part="C14" gate="G$1" x="205.74" y="152.4" smashed="yes">
+<attribute name="NAME" x="207.264" y="155.321" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="207.264" y="150.241" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C15" gate="G$1" x="20.32" y="124.46" smashed="yes">
-<attribute name="NAME" x="21.844" y="127.381" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="21.844" y="122.301" size="1.778" layer="96" font="vector"/>
+<instance part="C15" gate="G$1" x="20.32" y="137.16" smashed="yes">
+<attribute name="NAME" x="21.844" y="140.081" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="21.844" y="135.001" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C16" gate="G$1" x="200.66" y="96.52" smashed="yes">
-<attribute name="NAME" x="202.184" y="99.441" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="202.184" y="94.361" size="1.778" layer="96" font="vector"/>
+<instance part="C16" gate="G$1" x="205.74" y="96.52" smashed="yes">
+<attribute name="NAME" x="207.264" y="99.441" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="207.264" y="94.361" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C17" gate="G$1" x="20.32" y="68.58" smashed="yes">
-<attribute name="NAME" x="21.844" y="71.501" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="21.844" y="66.421" size="1.778" layer="96" font="vector"/>
+<instance part="C17" gate="G$1" x="20.32" y="78.74" smashed="yes">
+<attribute name="NAME" x="21.844" y="81.661" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="21.844" y="76.581" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C18" gate="G$1" x="198.12" y="40.64" smashed="yes">
-<attribute name="NAME" x="199.644" y="43.561" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="199.644" y="38.481" size="1.778" layer="96" font="vector"/>
+<instance part="C18" gate="G$1" x="205.74" y="40.64" smashed="yes">
+<attribute name="NAME" x="207.264" y="43.561" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="207.264" y="38.481" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C19" gate="G$1" x="198.12" y="-15.24" smashed="yes">
-<attribute name="NAME" x="199.644" y="-12.319" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="199.644" y="-17.399" size="1.778" layer="96" font="vector"/>
+<instance part="C19" gate="G$1" x="205.74" y="-15.24" smashed="yes">
+<attribute name="NAME" x="207.264" y="-12.319" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="207.264" y="-17.399" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C20" gate="G$1" x="20.32" y="12.7" smashed="yes">
-<attribute name="NAME" x="21.844" y="15.621" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="21.844" y="10.541" size="1.778" layer="96" font="vector"/>
+<instance part="C20" gate="G$1" x="20.32" y="22.86" smashed="yes">
+<attribute name="NAME" x="21.844" y="25.781" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="21.844" y="20.701" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C21" gate="G$1" x="238.76" y="175.26" smashed="yes" rot="R270">
-<attribute name="NAME" x="241.681" y="173.736" size="1.778" layer="95" font="vector" rot="R270"/>
-<attribute name="VALUE" x="236.601" y="173.736" size="1.778" layer="96" font="vector" rot="R270"/>
+<instance part="C21" gate="G$1" x="228.6" y="175.26" smashed="yes" rot="R270">
+<attribute name="NAME" x="231.521" y="173.736" size="1.778" layer="95" font="vector" rot="R270"/>
+<attribute name="VALUE" x="226.441" y="173.736" size="1.778" layer="96" font="vector" rot="R270"/>
 </instance>
-<instance part="C22" gate="G$1" x="238.76" y="7.62" smashed="yes" rot="R270">
-<attribute name="NAME" x="241.681" y="6.096" size="1.778" layer="95" font="vector" rot="R270"/>
-<attribute name="VALUE" x="236.601" y="6.096" size="1.778" layer="96" font="vector" rot="R270"/>
+<instance part="C22" gate="G$1" x="228.6" y="7.62" smashed="yes" rot="R270">
+<attribute name="NAME" x="231.521" y="6.096" size="1.778" layer="95" font="vector" rot="R270"/>
+<attribute name="VALUE" x="226.441" y="6.096" size="1.778" layer="96" font="vector" rot="R270"/>
 </instance>
 </instances>
 <busses>
@@ -16311,8 +16311,6 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <segment>
 <pinref part="LED1" gate="G$1" pin="DO"/>
 <pinref part="LED2" gate="G$1" pin="DI"/>
-<pinref part="C13" gate="G$1" pin="1"/>
-<junction x="20.32" y="185.42"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -16406,17 +16404,13 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <wire x1="198.12" y1="185.42" x2="200.66" y2="185.42" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="185.42" x2="200.66" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="LED9" gate="G$1" pin="DI"/>
-<wire x1="200.66" y1="157.48" x2="198.12" y2="157.48" width="0.1524" layer="91"/>
-<pinref part="C14" gate="G$1" pin="1"/>
-<junction x="198.12" y="157.48"/>
+<wire x1="198.12" y1="157.48" x2="200.66" y2="157.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$13" class="0">
 <segment>
 <pinref part="LED17" gate="G$1" pin="DO"/>
 <pinref part="LED18" gate="G$1" pin="DI"/>
-<pinref part="C15" gate="G$1" pin="1"/>
-<junction x="20.32" y="129.54"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -16501,19 +16495,15 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <segment>
 <pinref part="LED24" gate="G$1" pin="DO"/>
 <wire x1="198.12" y1="129.54" x2="200.66" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="129.54" x2="200.66" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="LED25" gate="G$1" pin="DI"/>
-<wire x1="200.66" y1="101.6" x2="198.12" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="C16" gate="G$1" pin="1"/>
-<junction x="200.66" y="101.6"/>
+<wire x1="198.12" y1="101.6" x2="200.66" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="101.6" x2="200.66" y2="129.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$39" class="0">
 <segment>
 <pinref part="LED33" gate="G$1" pin="DO"/>
 <pinref part="LED34" gate="G$1" pin="DI"/>
-<pinref part="C17" gate="G$1" pin="1"/>
-<junction x="20.32" y="73.66"/>
 </segment>
 </net>
 <net name="N$40" class="0">
@@ -16600,17 +16590,13 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <wire x1="198.12" y1="73.66" x2="200.66" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="73.66" x2="200.66" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="LED41" gate="G$1" pin="DI"/>
-<wire x1="200.66" y1="45.72" x2="198.12" y2="45.72" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="1"/>
-<junction x="198.12" y="45.72"/>
+<wire x1="198.12" y1="45.72" x2="200.66" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$58" class="0">
 <segment>
 <pinref part="LED49" gate="G$1" pin="DO"/>
 <pinref part="LED50" gate="G$1" pin="DI"/>
-<pinref part="C20" gate="G$1" pin="1"/>
-<junction x="20.32" y="17.78"/>
 </segment>
 </net>
 <net name="N$59" class="0">
@@ -16716,8 +16702,9 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="27.94" y="7.62"/>
 <pinref part="LED49" gate="G$1" pin="VDD"/>
 <pinref part="LED56" gate="G$1" pin="VDD"/>
-<wire x1="12.7" y1="35.56" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="35.56" x2="20.32" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="LED50" gate="G$1" pin="VDD"/>
+<wire x1="20.32" y1="35.56" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="35.56" x2="63.5" y2="35.56" width="0.1524" layer="91"/>
 <junction x="38.1" y="35.56"/>
 <pinref part="LED51" gate="G$1" pin="VDD"/>
@@ -16758,8 +16745,9 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="27.94" y="63.5"/>
 <pinref part="LED33" gate="G$1" pin="VDD"/>
 <pinref part="LED40" gate="G$1" pin="VDD"/>
-<wire x1="12.7" y1="91.44" x2="38.1" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="91.44" x2="20.32" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="LED34" gate="G$1" pin="VDD"/>
+<wire x1="20.32" y1="91.44" x2="38.1" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="91.44" x2="63.5" y2="91.44" width="0.1524" layer="91"/>
 <junction x="38.1" y="91.44"/>
 <pinref part="LED35" gate="G$1" pin="VDD"/>
@@ -16800,8 +16788,9 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="27.94" y="119.38"/>
 <pinref part="LED17" gate="G$1" pin="VDD"/>
 <pinref part="LED24" gate="G$1" pin="VDD"/>
-<wire x1="12.7" y1="147.32" x2="38.1" y2="147.32" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="147.32" x2="20.32" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="LED18" gate="G$1" pin="VDD"/>
+<wire x1="20.32" y1="147.32" x2="38.1" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="147.32" x2="63.5" y2="147.32" width="0.1524" layer="91"/>
 <junction x="38.1" y="147.32"/>
 <pinref part="LED19" gate="G$1" pin="VDD"/>
@@ -16872,8 +16861,9 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="218.44" y="195.58"/>
 <pinref part="LED1" gate="G$1" pin="VDD"/>
 <pinref part="LED8" gate="G$1" pin="VDD"/>
-<wire x1="12.7" y1="203.2" x2="38.1" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="203.2" x2="17.78" y2="203.2" width="0.1524" layer="91"/>
 <pinref part="LED2" gate="G$1" pin="VDD"/>
+<wire x1="17.78" y1="203.2" x2="38.1" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="203.2" x2="63.5" y2="203.2" width="0.1524" layer="91"/>
 <junction x="38.1" y="203.2"/>
 <pinref part="LED3" gate="G$1" pin="VDD"/>
@@ -16893,62 +16883,67 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="165.1" y="203.2"/>
 <wire x1="218.44" y1="203.2" x2="190.5" y2="203.2" width="0.1524" layer="91"/>
 <junction x="190.5" y="203.2"/>
-<wire x1="180.34" y1="175.26" x2="218.44" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="175.26" x2="205.74" y2="175.26" width="0.1524" layer="91"/>
 <junction x="180.34" y="175.26"/>
 <junction x="218.44" y="175.26"/>
+<wire x1="205.74" y1="175.26" x2="218.44" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="147.32" x2="218.44" y2="147.32" width="0.1524" layer="91"/>
 <junction x="190.5" y="147.32"/>
 <junction x="218.44" y="147.32"/>
-<wire x1="180.34" y1="119.38" x2="218.44" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="119.38" x2="205.74" y2="119.38" width="0.1524" layer="91"/>
 <junction x="180.34" y="119.38"/>
 <junction x="218.44" y="119.38"/>
+<wire x1="205.74" y1="119.38" x2="218.44" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="91.44" x2="218.44" y2="91.44" width="0.1524" layer="91"/>
 <junction x="190.5" y="91.44"/>
 <junction x="218.44" y="91.44"/>
-<wire x1="180.34" y1="63.5" x2="218.44" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="63.5" x2="205.74" y2="63.5" width="0.1524" layer="91"/>
 <junction x="180.34" y="63.5"/>
 <junction x="218.44" y="63.5"/>
+<wire x1="205.74" y1="63.5" x2="218.44" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="35.56" x2="218.44" y2="35.56" width="0.1524" layer="91"/>
 <junction x="190.5" y="35.56"/>
 <junction x="218.44" y="35.56"/>
-<wire x1="180.34" y1="7.62" x2="218.44" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="7.62" x2="205.74" y2="7.62" width="0.1524" layer="91"/>
 <junction x="180.34" y="7.62"/>
 <junction x="218.44" y="7.62"/>
+<wire x1="205.74" y1="7.62" x2="218.44" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="218.44" y1="203.2" x2="218.44" y2="205.74" width="0.1524" layer="91"/>
 <junction x="218.44" y="203.2"/>
 <label x="218.44" y="205.74" size="1.27" layer="95" rot="R90" xref="yes"/>
+<pinref part="C16" gate="G$1" pin="1"/>
+<wire x1="205.74" y1="101.6" x2="205.74" y2="119.38" width="0.1524" layer="91"/>
+<junction x="205.74" y="119.38"/>
+<pinref part="C13" gate="G$1" pin="1"/>
+<wire x1="17.78" y1="195.58" x2="17.78" y2="203.2" width="0.1524" layer="91"/>
+<junction x="17.78" y="203.2"/>
+<pinref part="C14" gate="G$1" pin="1"/>
+<wire x1="205.74" y1="157.48" x2="205.74" y2="175.26" width="0.1524" layer="91"/>
+<junction x="205.74" y="175.26"/>
+<pinref part="C15" gate="G$1" pin="1"/>
+<wire x1="20.32" y1="142.24" x2="20.32" y2="147.32" width="0.1524" layer="91"/>
+<junction x="20.32" y="147.32"/>
+<pinref part="C20" gate="G$1" pin="1"/>
+<wire x1="20.32" y1="27.94" x2="20.32" y2="35.56" width="0.1524" layer="91"/>
+<junction x="20.32" y="35.56"/>
+<pinref part="C17" gate="G$1" pin="1"/>
+<wire x1="20.32" y1="83.82" x2="20.32" y2="91.44" width="0.1524" layer="91"/>
+<junction x="20.32" y="91.44"/>
+<pinref part="C19" gate="G$1" pin="1"/>
+<wire x1="205.74" y1="-10.16" x2="205.74" y2="7.62" width="0.1524" layer="91"/>
+<junction x="205.74" y="7.62"/>
+<pinref part="C18" gate="G$1" pin="1"/>
+<wire x1="205.74" y1="45.72" x2="205.74" y2="63.5" width="0.1524" layer="91"/>
+<junction x="205.74" y="63.5"/>
+<pinref part="C21" gate="G$1" pin="2"/>
+<wire x1="218.44" y1="175.26" x2="226.06" y2="175.26" width="0.1524" layer="91"/>
+<pinref part="C22" gate="G$1" pin="2"/>
+<wire x1="226.06" y1="7.62" x2="218.44" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="LED57" gate="G$1" pin="GND"/>
-<pinref part="LED64" gate="G$1" pin="GND"/>
-<wire x1="185.42" y1="-17.78" x2="160.02" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="LED58" gate="G$1" pin="GND"/>
-<wire x1="160.02" y1="-17.78" x2="134.62" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="160.02" y="-17.78"/>
-<pinref part="LED59" gate="G$1" pin="GND"/>
-<wire x1="134.62" y1="-17.78" x2="109.22" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="134.62" y="-17.78"/>
-<pinref part="LED60" gate="G$1" pin="GND"/>
-<wire x1="109.22" y1="-17.78" x2="83.82" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="109.22" y="-17.78"/>
-<pinref part="LED61" gate="G$1" pin="GND"/>
-<wire x1="83.82" y1="-17.78" x2="58.42" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="83.82" y="-17.78"/>
-<pinref part="LED62" gate="G$1" pin="GND"/>
-<wire x1="58.42" y1="-17.78" x2="33.02" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="58.42" y="-17.78"/>
-<pinref part="LED63" gate="G$1" pin="GND"/>
-<wire x1="33.02" y1="-17.78" x2="7.62" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="33.02" y="-17.78"/>
-<pinref part="LED65" gate="G$1" pin="GND"/>
-<pinref part="LED72" gate="G$1" pin="GND"/>
-<wire x1="243.84" y1="190.5" x2="243.84" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="LED66" gate="G$1" pin="GND"/>
-<wire x1="243.84" y1="177.8" x2="243.84" y2="175.26" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="175.26" x2="243.84" y2="162.56" width="0.1524" layer="91"/>
-<junction x="243.84" y="162.56"/>
 <pinref part="LED67" gate="G$1" pin="GND"/>
 <wire x1="243.84" y1="162.56" x2="243.84" y2="149.86" width="0.1524" layer="91"/>
 <junction x="243.84" y="134.62"/>
@@ -16968,52 +16963,6 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <wire x1="243.84" y1="66.04" x2="243.84" y2="50.8" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="50.8" x2="243.84" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="38.1" x2="243.84" y2="22.86" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="22.86" x2="243.84" y2="10.16" width="0.1524" layer="91"/>
-<junction x="243.84" y="22.86"/>
-<wire x1="243.84" y1="10.16" x2="243.84" y2="7.62" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="7.62" x2="243.84" y2="-5.08" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="-17.78" x2="198.12" y2="-17.78" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="-20.32" x2="243.84" y2="-5.08" width="0.1524" layer="91"/>
-<junction x="185.42" y="-17.78"/>
-<junction x="243.84" y="-5.08"/>
-<wire x1="243.84" y1="190.5" x2="243.84" y2="205.74" width="0.1524" layer="91"/>
-<junction x="243.84" y="190.5"/>
-<label x="243.84" y="205.74" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="C19" gate="G$1" pin="2"/>
-<junction x="198.12" y="-17.78"/>
-<pinref part="C21" gate="G$1" pin="1"/>
-<junction x="243.84" y="175.26"/>
-<wire x1="198.12" y1="-17.78" x2="198.12" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="198.12" y1="-20.32" x2="243.84" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="C22" gate="G$1" pin="1"/>
-<junction x="243.84" y="7.62"/>
-<pinref part="LED8" gate="G$1" pin="GND"/>
-<pinref part="LED7" gate="G$1" pin="GND"/>
-<wire x1="160.02" y1="177.8" x2="185.42" y2="177.8" width="0.1524" layer="91"/>
-<junction x="160.02" y="177.8"/>
-<pinref part="LED6" gate="G$1" pin="GND"/>
-<wire x1="134.62" y1="177.8" x2="160.02" y2="177.8" width="0.1524" layer="91"/>
-<junction x="134.62" y="177.8"/>
-<pinref part="LED5" gate="G$1" pin="GND"/>
-<wire x1="109.22" y1="177.8" x2="134.62" y2="177.8" width="0.1524" layer="91"/>
-<junction x="109.22" y="177.8"/>
-<pinref part="LED2" gate="G$1" pin="GND"/>
-<pinref part="LED1" gate="G$1" pin="GND"/>
-<wire x1="7.62" y1="177.8" x2="20.32" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="2"/>
-<junction x="20.32" y="177.8"/>
-<wire x1="20.32" y1="177.8" x2="33.02" y2="177.8" width="0.1524" layer="91"/>
-<junction x="33.02" y="177.8"/>
-<wire x1="33.02" y1="177.8" x2="58.42" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="LED3" gate="G$1" pin="GND"/>
-<junction x="58.42" y="177.8"/>
-<wire x1="58.42" y1="177.8" x2="83.82" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="LED4" gate="G$1" pin="GND"/>
-<wire x1="83.82" y1="177.8" x2="109.22" y2="177.8" width="0.1524" layer="91"/>
-<junction x="83.82" y="177.8"/>
-<wire x1="185.42" y1="177.8" x2="243.84" y2="177.8" width="0.1524" layer="91"/>
-<junction x="185.42" y="177.8"/>
-<junction x="243.84" y="177.8"/>
 <pinref part="LED16" gate="G$1" pin="GND"/>
 <pinref part="LED15" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="149.86" x2="7.62" y2="149.86" width="0.1524" layer="91"/>
@@ -17026,7 +16975,7 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="83.82" y="149.86"/>
 <pinref part="C14" gate="G$1" pin="2"/>
 <pinref part="LED9" gate="G$1" pin="GND"/>
-<wire x1="185.42" y1="149.86" x2="198.12" y2="149.86" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="149.86" x2="205.74" y2="149.86" width="0.1524" layer="91"/>
 <junction x="185.42" y="149.86"/>
 <wire x1="185.42" y1="149.86" x2="160.02" y2="149.86" width="0.1524" layer="91"/>
 <pinref part="LED10" gate="G$1" pin="GND"/>
@@ -17038,19 +16987,13 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <pinref part="LED12" gate="G$1" pin="GND"/>
 <wire x1="109.22" y1="149.86" x2="83.82" y2="149.86" width="0.1524" layer="91"/>
 <junction x="109.22" y="149.86"/>
-<wire x1="198.12" y1="149.86" x2="243.84" y2="149.86" width="0.1524" layer="91"/>
-<junction x="198.12" y="149.86"/>
+<wire x1="205.74" y1="149.86" x2="243.84" y2="149.86" width="0.1524" layer="91"/>
+<junction x="205.74" y="149.86"/>
 <pinref part="LED24" gate="G$1" pin="GND"/>
 <pinref part="LED23" gate="G$1" pin="GND"/>
 <wire x1="160.02" y1="121.92" x2="185.42" y2="121.92" width="0.1524" layer="91"/>
 <junction x="160.02" y="121.92"/>
 <pinref part="LED18" gate="G$1" pin="GND"/>
-<pinref part="LED17" gate="G$1" pin="GND"/>
-<wire x1="7.62" y1="121.92" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="C15" gate="G$1" pin="2"/>
-<junction x="20.32" y="121.92"/>
-<wire x1="20.32" y1="121.92" x2="33.02" y2="121.92" width="0.1524" layer="91"/>
-<junction x="33.02" y="121.92"/>
 <wire x1="33.02" y1="121.92" x2="58.42" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="LED19" gate="G$1" pin="GND"/>
 <junction x="58.42" y="121.92"/>
@@ -17085,14 +17028,14 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="134.62" y="93.98"/>
 <pinref part="C16" gate="G$1" pin="2"/>
 <pinref part="LED25" gate="G$1" pin="GND"/>
-<wire x1="185.42" y1="93.98" x2="200.66" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="93.98" x2="205.74" y2="93.98" width="0.1524" layer="91"/>
 <junction x="185.42" y="93.98"/>
 <wire x1="185.42" y1="93.98" x2="160.02" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="LED26" gate="G$1" pin="GND"/>
 <wire x1="160.02" y1="93.98" x2="134.62" y2="93.98" width="0.1524" layer="91"/>
 <junction x="160.02" y="93.98"/>
-<wire x1="200.66" y1="93.98" x2="243.84" y2="93.98" width="0.1524" layer="91"/>
-<junction x="200.66" y="93.98"/>
+<wire x1="205.74" y1="93.98" x2="243.84" y2="93.98" width="0.1524" layer="91"/>
+<junction x="205.74" y="93.98"/>
 <junction x="243.84" y="93.98"/>
 <pinref part="LED40" gate="G$1" pin="GND"/>
 <pinref part="LED39" gate="G$1" pin="GND"/>
@@ -17112,19 +17055,13 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <junction x="58.42" y="66.04"/>
 <pinref part="LED34" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="66.04" x2="58.42" y2="66.04" width="0.1524" layer="91"/>
-<junction x="33.02" y="66.04"/>
-<wire x1="20.32" y1="66.04" x2="33.02" y2="66.04" width="0.1524" layer="91"/>
-<pinref part="C17" gate="G$1" pin="2"/>
-<junction x="20.32" y="66.04"/>
-<pinref part="LED33" gate="G$1" pin="GND"/>
-<wire x1="7.62" y1="66.04" x2="20.32" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="66.04" x2="243.84" y2="66.04" width="0.1524" layer="91"/>
 <junction x="185.42" y="66.04"/>
 <junction x="243.84" y="66.04"/>
 <pinref part="LED48" gate="G$1" pin="GND"/>
 <pinref part="C18" gate="G$1" pin="2"/>
 <pinref part="LED41" gate="G$1" pin="GND"/>
-<wire x1="185.42" y1="38.1" x2="198.12" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="38.1" x2="205.74" y2="38.1" width="0.1524" layer="91"/>
 <junction x="185.42" y="38.1"/>
 <wire x1="185.42" y1="38.1" x2="160.02" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="LED42" gate="G$1" pin="GND"/>
@@ -17145,9 +17082,101 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <pinref part="LED47" gate="G$1" pin="GND"/>
 <junction x="33.02" y="38.1"/>
 <wire x1="33.02" y1="38.1" x2="7.62" y2="38.1" width="0.1524" layer="91"/>
-<wire x1="198.12" y1="38.1" x2="243.84" y2="38.1" width="0.1524" layer="91"/>
-<junction x="198.12" y="38.1"/>
+<wire x1="205.74" y1="38.1" x2="243.84" y2="38.1" width="0.1524" layer="91"/>
+<junction x="205.74" y="38.1"/>
 <junction x="243.84" y="38.1"/>
+<junction x="243.84" y="149.86"/>
+<pinref part="LED17" gate="G$1" pin="GND"/>
+<wire x1="7.62" y1="121.92" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
+<junction x="33.02" y="121.92"/>
+<pinref part="C15" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="121.92" x2="33.02" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="134.62" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
+<junction x="20.32" y="121.92"/>
+<pinref part="LED33" gate="G$1" pin="GND"/>
+<wire x1="33.02" y1="66.04" x2="20.32" y2="66.04" width="0.1524" layer="91"/>
+<junction x="33.02" y="66.04"/>
+<pinref part="C17" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="66.04" x2="7.62" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="76.2" x2="20.32" y2="66.04" width="0.1524" layer="91"/>
+<junction x="20.32" y="66.04"/>
+<pinref part="LED65" gate="G$1" pin="GND"/>
+<wire x1="243.84" y1="190.5" x2="243.84" y2="205.74" width="0.1524" layer="91"/>
+<junction x="243.84" y="190.5"/>
+<label x="243.84" y="205.74" size="1.27" layer="95" rot="R90" xref="yes"/>
+<wire x1="243.84" y1="162.56" x2="243.84" y2="175.26" width="0.1524" layer="91"/>
+<junction x="243.84" y="162.56"/>
+<pinref part="C21" gate="G$1" pin="1"/>
+<wire x1="243.84" y1="175.26" x2="243.84" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="177.8" x2="243.84" y2="190.5" width="0.1524" layer="91"/>
+<wire x1="233.68" y1="175.26" x2="243.84" y2="175.26" width="0.1524" layer="91"/>
+<junction x="243.84" y="175.26"/>
+<pinref part="LED8" gate="G$1" pin="GND"/>
+<pinref part="LED7" gate="G$1" pin="GND"/>
+<wire x1="160.02" y1="177.8" x2="185.42" y2="177.8" width="0.1524" layer="91"/>
+<junction x="160.02" y="177.8"/>
+<pinref part="LED6" gate="G$1" pin="GND"/>
+<wire x1="134.62" y1="177.8" x2="160.02" y2="177.8" width="0.1524" layer="91"/>
+<junction x="134.62" y="177.8"/>
+<pinref part="LED5" gate="G$1" pin="GND"/>
+<wire x1="109.22" y1="177.8" x2="134.62" y2="177.8" width="0.1524" layer="91"/>
+<junction x="109.22" y="177.8"/>
+<pinref part="LED2" gate="G$1" pin="GND"/>
+<junction x="33.02" y="177.8"/>
+<pinref part="LED1" gate="G$1" pin="GND"/>
+<wire x1="7.62" y1="177.8" x2="17.78" y2="177.8" width="0.1524" layer="91"/>
+<pinref part="C13" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="187.96" x2="17.78" y2="177.8" width="0.1524" layer="91"/>
+<junction x="17.78" y="177.8"/>
+<wire x1="17.78" y1="177.8" x2="33.02" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="177.8" x2="58.42" y2="177.8" width="0.1524" layer="91"/>
+<pinref part="LED3" gate="G$1" pin="GND"/>
+<junction x="58.42" y="177.8"/>
+<wire x1="58.42" y1="177.8" x2="83.82" y2="177.8" width="0.1524" layer="91"/>
+<pinref part="LED4" gate="G$1" pin="GND"/>
+<wire x1="83.82" y1="177.8" x2="109.22" y2="177.8" width="0.1524" layer="91"/>
+<junction x="83.82" y="177.8"/>
+<wire x1="243.84" y1="177.8" x2="185.42" y2="177.8" width="0.1524" layer="91"/>
+<junction x="243.84" y="177.8"/>
+<junction x="185.42" y="177.8"/>
+<pinref part="C22" gate="G$1" pin="1"/>
+<wire x1="233.68" y1="7.62" x2="243.84" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="7.62" x2="243.84" y2="10.16" width="0.1524" layer="91"/>
+<junction x="243.84" y="22.86"/>
+<pinref part="LED64" gate="G$1" pin="GND"/>
+<pinref part="LED72" gate="G$1" pin="GND"/>
+<wire x1="243.84" y1="10.16" x2="243.84" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="-20.32" x2="243.84" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="-20.32" x2="243.84" y2="-20.32" width="0.1524" layer="91"/>
+<pinref part="C19" gate="G$1" pin="2"/>
+<junction x="205.74" y="-17.78"/>
+<wire x1="205.74" y1="-17.78" x2="205.74" y2="-20.32" width="0.1524" layer="91"/>
+<pinref part="LED57" gate="G$1" pin="GND"/>
+<wire x1="185.42" y1="-17.78" x2="205.74" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="185.42" y="-17.78"/>
+<wire x1="185.42" y1="-17.78" x2="160.02" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED58" gate="G$1" pin="GND"/>
+<junction x="160.02" y="-17.78"/>
+<wire x1="160.02" y1="-17.78" x2="134.62" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED59" gate="G$1" pin="GND"/>
+<junction x="134.62" y="-17.78"/>
+<wire x1="134.62" y1="-17.78" x2="109.22" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED60" gate="G$1" pin="GND"/>
+<junction x="109.22" y="-17.78"/>
+<wire x1="109.22" y1="-17.78" x2="83.82" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED61" gate="G$1" pin="GND"/>
+<junction x="83.82" y="-17.78"/>
+<wire x1="83.82" y1="-17.78" x2="58.42" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED62" gate="G$1" pin="GND"/>
+<junction x="58.42" y="-17.78"/>
+<wire x1="58.42" y1="-17.78" x2="33.02" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LED63" gate="G$1" pin="GND"/>
+<junction x="33.02" y="-17.78"/>
+<wire x1="33.02" y1="-17.78" x2="7.62" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="7.62" x2="243.84" y2="-5.08" width="0.1524" layer="91"/>
+<junction x="243.84" y="7.62"/>
+<junction x="243.84" y="-5.08"/>
+<pinref part="LED49" gate="G$1" pin="GND"/>
 <pinref part="LED56" gate="G$1" pin="GND"/>
 <pinref part="LED55" gate="G$1" pin="GND"/>
 <wire x1="160.02" y1="10.16" x2="185.42" y2="10.16" width="0.1524" layer="91"/>
@@ -17167,15 +17196,14 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <pinref part="LED50" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="10.16" x2="58.42" y2="10.16" width="0.1524" layer="91"/>
 <junction x="33.02" y="10.16"/>
-<wire x1="20.32" y1="10.16" x2="33.02" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="10.16" x2="20.32" y2="10.16" width="0.1524" layer="91"/>
 <pinref part="C20" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="20.32" x2="20.32" y2="10.16" width="0.1524" layer="91"/>
 <junction x="20.32" y="10.16"/>
-<pinref part="LED49" gate="G$1" pin="GND"/>
-<wire x1="7.62" y1="10.16" x2="20.32" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="10.16" x2="7.62" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="10.16" x2="243.84" y2="10.16" width="0.1524" layer="91"/>
 <junction x="185.42" y="10.16"/>
 <junction x="243.84" y="10.16"/>
-<junction x="243.84" y="149.86"/>
 </segment>
 </net>
 <net name="N$76" class="0">
@@ -17184,9 +17212,7 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <wire x1="198.12" y1="17.78" x2="200.66" y2="17.78" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="17.78" x2="200.66" y2="-10.16" width="0.1524" layer="91"/>
 <pinref part="LED57" gate="G$1" pin="DI"/>
-<wire x1="200.66" y1="-10.16" x2="198.12" y2="-10.16" width="0.1524" layer="91"/>
-<pinref part="C19" gate="G$1" pin="1"/>
-<junction x="198.12" y="-10.16"/>
+<wire x1="198.12" y1="-10.16" x2="200.66" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$77" class="0">
@@ -17228,15 +17254,6 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <label x="236.22" y="-22.86" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
-<net name="N$80" class="0">
-<segment>
-<pinref part="LED65" gate="G$1" pin="DI"/>
-<pinref part="LED66" gate="G$1" pin="DO"/>
-<wire x1="236.22" y1="177.8" x2="236.22" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="C21" gate="G$1" pin="2"/>
-<junction x="236.22" y="175.26"/>
-</segment>
-</net>
 <net name="N$81" class="0">
 <segment>
 <pinref part="LED66" gate="G$1" pin="DI"/>
@@ -17272,20 +17289,25 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <wire x1="236.22" y1="38.1" x2="236.22" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$86" class="0">
-<segment>
-<pinref part="LED71" gate="G$1" pin="DI"/>
-<pinref part="LED72" gate="G$1" pin="DO"/>
-<wire x1="236.22" y1="10.16" x2="236.22" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="C22" gate="G$1" pin="2"/>
-<junction x="236.22" y="7.62"/>
-</segment>
-</net>
 <net name="LED_CONTROL_OUT" class="0">
 <segment>
 <pinref part="LED65" gate="G$1" pin="DO"/>
 <wire x1="236.22" y1="203.2" x2="236.22" y2="205.74" width="0.1524" layer="91"/>
 <label x="236.22" y="205.74" size="1.27" layer="95" rot="R90" xref="yes"/>
+</segment>
+</net>
+<net name="N$116" class="0">
+<segment>
+<pinref part="LED66" gate="G$1" pin="DO"/>
+<pinref part="LED65" gate="G$1" pin="DI"/>
+<wire x1="236.22" y1="175.26" x2="236.22" y2="177.8" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$86" class="0">
+<segment>
+<pinref part="LED71" gate="G$1" pin="DI"/>
+<pinref part="LED72" gate="G$1" pin="DO"/>
+<wire x1="236.22" y1="10.16" x2="236.22" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
@@ -20190,20 +20212,31 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <approved hash="106,4,99.06,-20.32,N$107,,,,,"/>
 <approved hash="106,4,0,0,N$115,,,,,"/>
 <approved hash="106,3,119.38,63.5,SHIFTREG_DATA2,,,,,"/>
-<approved hash="110,1,236.22,177.8,GND,N$80,,,,"/>
 <approved hash="110,1,236.22,149.86,GND,N$81,,,,"/>
 <approved hash="110,1,236.22,121.92,GND,N$82,,,,"/>
 <approved hash="110,1,236.22,93.98,GND,N$83,,,,"/>
 <approved hash="110,1,236.22,66.04,GND,N$84,,,,"/>
 <approved hash="110,1,236.22,38.1,GND,N$85,,,,"/>
+<approved hash="110,1,236.22,175.26,GND,N$116,,,,"/>
+<approved hash="110,1,236.22,177.8,GND,N$116,,,,"/>
+<approved hash="110,1,236.22,7.62,GND,N$86,,,,"/>
 <approved hash="110,1,236.22,10.16,GND,N$86,,,,"/>
+<approved hash="111,1,17.78,185.42,GND,,,,,"/>
+<approved hash="111,1,20.32,129.54,GND,,,,,"/>
+<approved hash="111,1,20.32,129.54,GND,,,,,"/>
+<approved hash="111,1,20.32,73.66,GND,,,,,"/>
+<approved hash="111,1,20.32,73.66,GND,,,,,"/>
+<approved hash="111,1,20.32,17.78,GND,,,,,"/>
+<approved hash="111,1,20.32,17.78,GND,,,,,"/>
 <approved hash="111,1,236.22,177.8,GND,,,,,"/>
 <approved hash="111,1,236.22,149.86,GND,,,,,"/>
+<approved hash="111,1,236.22,175.26,GND,,,,,"/>
 <approved hash="111,1,236.22,121.92,GND,,,,,"/>
 <approved hash="111,1,236.22,93.98,GND,,,,,"/>
 <approved hash="111,1,236.22,66.04,GND,,,,,"/>
 <approved hash="111,1,236.22,38.1,GND,,,,,"/>
 <approved hash="111,1,236.22,10.16,GND,,,,,"/>
+<approved hash="111,1,236.22,7.62,GND,,,,,"/>
 <approved hash="113,3,42.3443,70.1915,TEMP_ADJUST,,,,,"/>
 <approved hash="113,3,27.1043,69.772,BRIG_ADJUST,,,,,"/>
 <approved hash="113,2,142.24,8.8646,D1,,,,,"/>
