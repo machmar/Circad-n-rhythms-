@@ -1,5 +1,9 @@
 # Circad-n-rhythms-
-This "I still advise you not to try to build it because there are many mistakes in the pcb design and somethings are compleetly replaced with something else." is not true anymore. I think it should be working as it should. Thje pcb is not tested yet but that will change soon.
+
+Well now the code is fully ported to the new pcb and it is much better. I now think and advise you to build it. The bom should be ok (if not let me know marekmach24@gmail.com) and the code should work. Also if you build it, message me and Ill tell you what serial number you should write on it. Also please dont be a dick and dont market it as your own if you were to sell it - let them know that its my design and if you want to sell more than 3, let me know before you sell more. This doesnt mean that you cant build as many as you want (you can), it just means that you cant sell them.
+Also to prevent anyone selling my modules without my consent, I will not make the stl files aviable. If you want them, send me an e-mail and well figutre something out.
+
+This "ℑ 𝔰𝔱𝔦𝔩𝔩 𝔞𝔡𝔳𝔦𝔰𝔢 𝔶𝔬𝔲 𝔫𝔬𝔱 𝔱𝔬 𝔱𝔯𝔶 𝔱𝔬 𝔟𝔲𝔦𝔩𝔡 𝔦𝔱 𝔟𝔢𝔠𝔞𝔲𝔰𝔢 𝔱𝔥𝔢𝔯𝔢 𝔞𝔯𝔢 𝔪𝔞𝔫𝔶 𝔪𝔦𝔰𝔱𝔞𝔨𝔢𝔰 𝔦𝔫 𝔱𝔥𝔢 𝔭𝔠𝔟 𝔡𝔢𝔰𝔦𝔤𝔫 𝔞𝔫𝔡 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤𝔰 𝔞𝔯𝔢 𝔠𝔬𝔪𝔭𝔩𝔢𝔢𝔱𝔩𝔶 𝔯𝔢𝔭𝔩𝔞𝔠𝔢𝔡 𝔴𝔦𝔱𝔥 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔢𝔩𝔰𝔢." is not true anymore. I think it should be working as it should. The pcb is ̷n̷o̷t̷  tested y̷e̷t̷ ̷b̷u̷t̷ ̷t̷h̷a̷t̷ ̷w̷i̷l̷l̷ ̷c̷h̷a̷n̷g̷e̷ ̷s̷o̷o̷n̷ .
 
 Im back with an update. With this update, the module is now usable.Altho ̷I̷ ̷s̷t̷i̷l̷l̷ ̷a̷d̷v̷i̷s̷e̷ ̷y̷o̷u̷ ̷n̷o̷t̷ ̷t̷o̷ ̷t̷r̷y̷ ̷t̷o̷ ̷b̷u̷i̷l̷d̷ ̷i̷t̷ ̷b̷e̷c̷a̷u̷s̷e̷ ̷t̷h̷e̷r̷e̷ ̷a̷r̷e̷ ̷m̷a̷n̷y̷ ̷m̷i̷s̷t̷a̷k̷e̷s̷ ̷i̷n̷ ̷t̷h̷e̷ ̷p̷c̷b̷ ̷d̷e̷s̷i̷g̷n̷ ̷a̷n̷d̷ ̷s̷o̷m̷e̷t̷h̷i̷n̷g̷s̷ ̷a̷r̷e̷ ̷c̷o̷m̷p̷l̷e̷e̷t̷l̷y̷ ̷r̷e̷p̷l̷a̷c̷e̷d̷ ̷w̷i̷t̷h̷ ̷s̷o̷m̷e̷t̷h̷i̷n̷g̷ ̷e̷l̷s̷e̷.̷
 ̷
