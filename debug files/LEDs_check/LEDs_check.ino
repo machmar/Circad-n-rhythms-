@@ -13,25 +13,25 @@ void setup() {
 }
 
 void loop() {
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0xff0000;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0xff0000;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0x00ff00;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0x00ff00;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0x0000ff;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0x0000ff;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0xffff00;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0xffff00;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0x00ffff;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0x00ffff;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0xffffff;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0xffffff;
   FastLED.show();
   delay(SPEED);
-  for (uint8_t i = 0; i < NUM_LEDS; i++) leds[i] = 0x000000;
+  for (uint8_t i = 0; i < 72; i++) leds[i] = 0x000000;
   FastLED.show();
   delay(SPEED);
 }
