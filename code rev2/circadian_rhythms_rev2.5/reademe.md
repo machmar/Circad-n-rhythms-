@@ -15,4 +15,5 @@ The list of function of the buttons:
 ```
 
 The encoder changes the BPM when you have no menu open, othervise it changes some parameters from the menu.
+Also to know what version of software you are on, hold the encoder down while you turn on the module. (the intro animation will play before it displays the version)
 More features to come, Marek Mach.
