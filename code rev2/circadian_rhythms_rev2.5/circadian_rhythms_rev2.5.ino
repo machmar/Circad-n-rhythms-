@@ -37,7 +37,7 @@
 #define keyPressDuration 300
 #define longPressDuration 1000
 #define triggerLenght 20
-#define hardwareClockTimerFrquency F_CPU * 60 //precalculate the left part of the claculation with crystal frequency
+#define hardwareClockTimerFrquency (F_CPU * 60) //precalculate the left part of the claculation with crystal frequency
 #define BPMTimeout 400
 #define SYSfirmwareVersion "2.5.0 current firmware."
 
