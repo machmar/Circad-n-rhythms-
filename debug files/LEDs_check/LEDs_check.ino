@@ -8,8 +8,8 @@
 CRGB leds[72];
 
 void setup() { 
-       FastLED.addLeds<WS2812B, 9, RGB>(leds, 72);
-       FastLED.setBrightness(BRIGHTNESS);
+  FastLED.addLeds<WS2812B, 9, RGB>(leds, 72);
+  FastLED.setBrightness(BRIGHTNESS);
 }
 
 void loop() {
