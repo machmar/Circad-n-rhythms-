@@ -4,6 +4,7 @@ Well now the code is fully ported to the new pcb and it is much better. I now th
 Also to prevent anyone selling my modules without my consent, I will not make the stl files aviable. If you want them, send me an e-mail and well figutre something out.
 
 More info is [Here on wiki](https://github.com/machmar/Circad-n-rhythms-/wiki/)
+I have aslo made a video about it now [on my youtube channel](https://youtu.be/im8Ey7QF54s)
 
 This "ℑ 𝔰𝔱𝔦𝔩𝔩 𝔞𝔡𝔳𝔦𝔰𝔢 𝔶𝔬𝔲 𝔫𝔬𝔱 𝔱𝔬 𝔱𝔯𝔶 𝔱𝔬 𝔟𝔲𝔦𝔩𝔡 𝔦𝔱 𝔟𝔢𝔠𝔞𝔲𝔰𝔢 𝔱𝔥𝔢𝔯𝔢 𝔞𝔯𝔢 𝔪𝔞𝔫𝔶 𝔪𝔦𝔰𝔱𝔞𝔨𝔢𝔰 𝔦𝔫 𝔱𝔥𝔢 𝔭𝔠𝔟 𝔡𝔢𝔰𝔦𝔤𝔫 𝔞𝔫𝔡 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤𝔰 𝔞𝔯𝔢 𝔠𝔬𝔪𝔭𝔩𝔢𝔢𝔱𝔩𝔶 𝔯𝔢𝔭𝔩𝔞𝔠𝔢𝔡 𝔴𝔦𝔱𝔥 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔢𝔩𝔰𝔢." is not true anymore. I think it should be working as it should. The pcb is ̷n̷o̷t̷  tested y̷e̷t̷ ̷b̷u̷t̷ ̷t̷h̷a̷t̷ ̷w̷i̷l̷l̷ ̷c̷h̷a̷n̷g̷e̷ ̷s̷o̷o̷n̷ .
 
