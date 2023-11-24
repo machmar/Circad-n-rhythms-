@@ -1,3 +1,7 @@
+It has been a long time and I do not know what I changed in this update other then optimized ram consumption to just 55% instead of 95% which it was previously.  
+  
+Following is a copy of README.md from 2.5 folder:  
+  
 This update is different.
 The right row of buttons now has a Shift button. The module has a builtin support - just hold any button down for like a seccond and it will tell you.
 
