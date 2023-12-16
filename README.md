@@ -1,6 +1,6 @@
 # Circad-n-rhythms-
 
-Sadly, this project has stalled and while I have plans to make it much better in the future, the so far is no date and other stuff is more important right now.    
+Sadly, this project has stalled and while I have plans to make it much better in the future, there so far is no date for these plans and other stuff is more important right now.    
   
 If you are just seeing this module for the first time, let me introduce you to the basic concept of what it is and what it was.  
 This is a eurorack module that was originally a clone of *Circadian Rhythms* by *TipTop Audio* but later on I decided to make it my own. I have rewritten the code and redisegined the PCB for it multiple times but never got into a place were the programming would get clean and straight forward. I suspect this is mostly because I coded the whole thing in one file with Arduino IDE. So if any new versions of the code ever come out, it willl be written in Microchip Studio instead.  But the Hardware, other than the noise on powerlines that it makes, is a in a good state with all the stuff nescessary for further development  
