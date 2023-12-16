@@ -24533,283 +24533,283 @@ design rules under a new name.
 <attribute name="NAME" x="26.035" y="51.435" size="1.143" layer="26" rot="MR0"/>
 <attribute name="VALUE" x="26.035" y="46.355" size="1.27" layer="28" rot="MR0"/>
 </element>
-<element name="LED1" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED1" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="0.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="4.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED10" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED10" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="86.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="86.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED11" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED11" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="72.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="72.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED12" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED12" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="58.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="58.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED13" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED13" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="44.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="44.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED14" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED14" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="30.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="30.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED15" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED15" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="16.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="16.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED16" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED16" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="2.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="2.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED17" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED17" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="0.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="4.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED18" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED18" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="14.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="18.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED19" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED19" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="28.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="32.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED2" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED2" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="14.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="18.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED20" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED20" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="42.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="46.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED21" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED21" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="56.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="60.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED22" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED22" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="70.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="74.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED23" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED23" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="84.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="88.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED24" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="79.313" smashed="yes" rot="R45">
+<element name="LED24" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="79.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="98.63331875" y="79.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="102.0458125" y="76.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED25" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED25" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="100.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="100.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED26" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED26" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="86.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="86.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED27" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED27" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="72.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="72.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED28" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED28" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="58.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="58.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED29" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED29" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="44.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="44.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED3" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED3" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="28.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="32.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED30" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED30" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="30.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="30.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED31" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED31" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="16.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="16.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED32" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED32" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="2.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="2.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED33" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED33" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="0.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="4.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED34" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED34" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="14.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="18.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED35" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED35" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="28.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="32.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED36" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED36" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="42.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="46.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED37" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED37" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="56.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="60.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED38" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED38" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="70.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="74.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED39" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED39" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="84.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="88.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED4" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED4" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="42.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="46.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED40" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="51.313" smashed="yes" rot="R45">
+<element name="LED40" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="51.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="98.63331875" y="51.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="102.0458125" y="48.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED41" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED41" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="100.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="100.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED42" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED42" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="86.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="86.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED43" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED43" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="72.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="72.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED44" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED44" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="58.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="58.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED45" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED45" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="44.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="44.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED46" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED46" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="30.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="30.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED47" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED47" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="16.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="16.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED48" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED48" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="2.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="2.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED49" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED49" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="0.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="4.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED5" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED5" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="56.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="60.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED50" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED50" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="14.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="18.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED51" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED51" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="28.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="32.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED52" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED52" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="42.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="46.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED53" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED53" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="56.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="60.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED54" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED54" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="70.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="74.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED55" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED55" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="84.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="88.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED56" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="23.313" smashed="yes" rot="R45">
+<element name="LED56" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="23.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="98.63331875" y="23.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="102.0458125" y="20.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED57" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED57" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="100.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="100.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED58" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED58" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="86.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="86.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED59" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED59" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="72.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="72.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED6" library="adafruit" package="LED3535" value="WS2812B3535" x="73.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED6" library="adafruit" package="LED3535" value="SK68123535" x="73.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="70.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="74.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED60" library="adafruit" package="LED3535" value="WS2812B3535" x="59.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED60" library="adafruit" package="LED3535" value="SK68123535" x="59.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="58.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="58.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED61" library="adafruit" package="LED3535" value="WS2812B3535" x="45.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED61" library="adafruit" package="LED3535" value="SK68123535" x="45.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="44.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="44.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED62" library="adafruit" package="LED3535" value="WS2812B3535" x="31.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED62" library="adafruit" package="LED3535" value="SK68123535" x="31.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="30.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="30.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED63" library="adafruit" package="LED3535" value="WS2812B3535" x="17.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED63" library="adafruit" package="LED3535" value="SK68123535" x="17.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="16.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="16.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED64" library="adafruit" package="LED3535" value="WS2812B3535" x="3.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED64" library="adafruit" package="LED3535" value="SK68123535" x="3.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="2.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="2.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED65" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="9.313" smashed="yes" rot="R225">
+<element name="LED65" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="9.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="12.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="12.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED66" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="23.313" smashed="yes" rot="R225">
+<element name="LED66" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="23.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="26.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="26.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED67" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="37.313" smashed="yes" rot="R225">
+<element name="LED67" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="37.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="40.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="40.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED68" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="51.313" smashed="yes" rot="R225">
+<element name="LED68" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="51.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="54.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="54.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED69" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="65.313" smashed="yes" rot="R225">
+<element name="LED69" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="65.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="68.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="68.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED7" library="adafruit" package="LED3535" value="WS2812B3535" x="87.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED7" library="adafruit" package="LED3535" value="SK68123535" x="87.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="84.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="88.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
-<element name="LED70" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="79.313" smashed="yes" rot="R225">
+<element name="LED70" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="79.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="82.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="82.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED71" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED71" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="114.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="114.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>
-<element name="LED72" library="adafruit" package="LED3535" value="WS2812B3535" x="115.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED72" library="adafruit" package="LED3535" value="SK68123535" x="115.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="112.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="116.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
@@ -24841,7 +24841,7 @@ design rules under a new name.
 <attribute name="NAME" x="144.611" y="24.7394" size="1.143" layer="25" ratio="10"/>
 <attribute name="VALUE" x="150.9864" y="18.5926" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="LED8" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="107.313" smashed="yes" rot="R45">
+<element name="LED8" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="107.313" smashed="yes" rot="R45">
 <attribute name="NAME" x="98.63331875" y="107.49260625" size="1.143" layer="25" ratio="18" rot="R45"/>
 <attribute name="VALUE" x="102.0458125" y="104.259715625" size="0.4064" layer="27" ratio="10" rot="R45"/>
 </element>
@@ -24849,7 +24849,7 @@ design rules under a new name.
 <attribute name="NAME" x="144.611" y="10.7394" size="1.143" layer="25" ratio="10"/>
 <attribute name="VALUE" x="150.9864" y="4.5926" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="LED9" library="adafruit" package="LED3535" value="WS2812B3535" x="101.507" y="93.313" smashed="yes" rot="R225">
+<element name="LED9" library="adafruit" package="LED3535" value="SK68123535" x="101.507" y="93.313" smashed="yes" rot="R225">
 <attribute name="NAME" x="100.57068125" y="96.94339375" size="1.143" layer="25" ratio="18" rot="R225"/>
 <attribute name="VALUE" x="100.9681875" y="96.366284375" size="0.4064" layer="27" ratio="10" rot="R225"/>
 </element>

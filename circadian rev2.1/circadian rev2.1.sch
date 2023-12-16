@@ -15940,78 +15940,78 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="LED1" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED2" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED3" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED4" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED5" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED6" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED7" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED8" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED9" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED10" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED11" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED12" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED13" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED14" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED15" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED16" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED17" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED18" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED19" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED20" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED21" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED22" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED23" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED24" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED25" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED26" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED27" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED28" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED29" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED30" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED31" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED32" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED33" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED34" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED35" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED36" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED37" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED38" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED39" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED40" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED41" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED42" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED43" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED44" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED45" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED46" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED47" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED48" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED49" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED50" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED51" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED52" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED53" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED54" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED55" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED56" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED57" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED58" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED59" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED60" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED61" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED62" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED63" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED64" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED65" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED66" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED67" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED68" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED69" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED70" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED71" library="adafruit" deviceset="WS2812B" device="3535"/>
-<part name="LED72" library="adafruit" deviceset="WS2812B" device="3535"/>
+<part name="LED1" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED2" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED3" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED4" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED5" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED6" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED7" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED8" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED9" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED10" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED11" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED12" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED13" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED14" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED15" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED16" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED17" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED18" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED19" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED20" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED21" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED22" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED23" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED24" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED25" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED26" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED27" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED28" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED29" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED30" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED31" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED32" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED33" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED34" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED35" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED36" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED37" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED38" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED39" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED40" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED41" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED42" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED43" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED44" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED45" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED46" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED47" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED48" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED49" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED50" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED51" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED52" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED53" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED54" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED55" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED56" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED57" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED58" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED59" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED60" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED61" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED62" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED63" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED64" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED65" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED66" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED67" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED68" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED69" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED70" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED71" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
+<part name="LED72" library="adafruit" deviceset="WS2812B" device="3535" value="SK68123535"/>
 <part name="S1" library="encoders switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.0X3.5MM" package3d_urn="urn:adsk.eagle:package:40165/1"/>
 <part name="S2" library="encoders switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.0X3.5MM" package3d_urn="urn:adsk.eagle:package:40165/1"/>
 <part name="S3" library="encoders switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.0X3.5MM" package3d_urn="urn:adsk.eagle:package:40165/1"/>
@@ -16191,6 +16191,8 @@ Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf</description>
 <sheet>
 <description>LEDs</description>
 <plain>
+<text x="76.2" y="-22.86" size="2.54" layer="91">LEDs are NOT WS2812B, they are SK6812!</text>
+<text x="76.2" y="205.74" size="2.54" layer="91">LEDs are NOT WS2812B, they are SK6812!</text>
 </plain>
 <instances>
 <instance part="LED1" gate="G$1" x="7.62" y="187.96" smashed="yes"/>
